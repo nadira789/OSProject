@@ -429,7 +429,7 @@ At the terminal, create a new directory called **myroot**, and run a instance of
 sudo chown -R codespace:codespace myroot
 
 ```
-*** __Fill answer here__.***
+*** __Yes__.***
 
 ## You are on your own, create your own static webpage
 
