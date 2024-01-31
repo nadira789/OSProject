@@ -466,7 +466,7 @@ drwxrwxrwx+ 2 codespace root       4096 Jan 29 14:34 images
 drwxrwxrwx+ 2 codespace codespace  4096 Jan 29 16:51 myroot
 drwxrwxrwx+ 2 codespace codespace  4096 Jan 31 11:53 webpage__.
 2. What port is the apache web server running. ***(1 mark)***Listen 80
-3. What port is open for http protocol on the host machine? ***(1 mark)***Listen 80
+3. What port is open for http protocol on the host machine? ***(1 mark)***Listen 443
 
 ## What to submit
 
